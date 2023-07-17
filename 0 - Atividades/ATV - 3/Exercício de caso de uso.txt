@@ -1,0 +1,4 @@
+Construir o Diagrama de Caso de Uso para o problema do Campeonato Baiano (disponível na lista de exercícios de caso de uso avançada)
+Escolher dois casos de uso e fazer o caso de uso expandido
+Postar até o dia 12-06
+(tarefa em reposição da aula do dia 09-06)
